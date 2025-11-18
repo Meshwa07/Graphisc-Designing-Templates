@@ -1,1 +1,1 @@
-# Graphisc-Designing-Templates
+# Graphics-Designing-Templates
